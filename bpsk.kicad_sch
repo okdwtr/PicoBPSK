@@ -1,0 +1,15 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "47f534ab-6afa-4e84-93c5-64bcbe279591")
+	(paper "A4")
+	(title_block
+		(title "PicoBPSK")
+		(date "2026-09-03")
+		(rev "0.01")
+		(company "okdwtr")
+		(comment 1 "USB-BPSK Converter Using RP2354")
+	)
+	(lib_symbols)
+)

@@ -2937,6 +2937,16 @@
 		)
 		(uuid "0afea1e5-1823-4f57-9de5-3f8b59cd2c2d")
 	)
+	(text "BPSK"
+		(exclude_from_sim no)
+		(at 247.65 88.9 0)
+		(effects
+			(font
+				(size 3.81 3.81)
+			)
+		)
+		(uuid "79973a65-29b8-45eb-80a8-555f24e7c75b")
+	)
 	(text "Input - Switch"
 		(exclude_from_sim no)
 		(at 25.4 190.5 0)
@@ -13014,6 +13024,52 @@
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334"
 					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 228.6 76.2)
+		(size 38.1 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0)
+		)
+		(uuid "d5529652-b681-4982-abd5-6558ab286f5b")
+		(property "Sheetname" "bpsk"
+			(at 228.6 75.4884 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "bpsk.kicad_sch"
+			(at 228.6 102.1846 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "PicoBPSK"
+				(path "/2bd032f8-7511-456b-b52b-94ead8598334"
+					(page "3")
 				)
 			)
 		)
