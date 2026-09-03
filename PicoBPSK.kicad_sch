@@ -2,8 +2,15 @@
 	(version 20260306)
 	(generator "eeschema")
 	(generator_version "10.0")
-	(uuid 2bd032f8-7511-456b-b52b-94ead8598334)
+	(uuid "2bd032f8-7511-456b-b52b-94ead8598334")
 	(paper "A4")
+	(title_block
+		(title "PicoBPSK")
+		(date "2026-09-03")
+		(rev "0.01")
+		(company "okdwtr")
+		(comment 1 "USB-BPSK Converter Using RP2354")
+	)
 	(lib_symbols)
 	(sheet_instances
 		(path "/"
