@@ -2917,6 +2917,26 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "for IOVDD"
+		(exclude_from_sim no)
+		(at 95.25 39.624 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "017cba84-28da-4714-816c-17fc94ec84b6")
+	)
+	(text "for DVDD"
+		(exclude_from_sim no)
+		(at 107.95 65.024 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "0afea1e5-1823-4f57-9de5-3f8b59cd2c2d")
+	)
 	(text "Input - Switch"
 		(exclude_from_sim no)
 		(at 25.4 190.5 0)
@@ -2970,6 +2990,16 @@
 			(justify left bottom)
 		)
 		(uuid "ef2e0e18-a9cd-418f-b108-e783c3b0b5ff")
+	)
+	(text "for IOVDD"
+		(exclude_from_sim no)
+		(at 69.85 65.024 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f23ccd2a-0a14-474e-973d-66fedc8cfb74")
 	)
 	(junction
 		(at 63.5 63.5)
