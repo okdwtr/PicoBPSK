@@ -13066,6 +13066,96 @@
 				(justify left top)
 			)
 		)
+		(pin "RX_LEV_H" input
+			(at 228.6 88.9 180)
+			(uuid "e83a78db-f293-4b02-920e-6c2073ff98f7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_LEV_L" input
+			(at 228.6 91.44 180)
+			(uuid "e534caab-3936-44ee-ab30-05580c64bccd")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_SIG_H" output
+			(at 228.6 96.52 180)
+			(uuid "b9ad171e-7b6d-4202-a0ed-414cdc798a3a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_SIG_L" output
+			(at 228.6 99.06 180)
+			(uuid "d4de74bd-8c62-4b4e-b57a-6c57e476ac2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_FET_D" input
+			(at 228.6 81.28 180)
+			(uuid "aeec2749-73ff-4a33-93d8-5fe8e4589c31")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_FET_U" input
+			(at 228.6 78.74 180)
+			(uuid "ef4a3771-fc33-450f-84ea-af77bd83d552")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_LEV_H" input
+			(at 228.6 83.82 180)
+			(uuid "1bf7b7ff-629f-4e9e-af92-287d215c37a2")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_LEV_L" input
+			(at 228.6 86.36 180)
+			(uuid "a72e75aa-0ede-435c-9e41-adff893ca0ea")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "RX_SIG" output
+			(at 228.6 93.98 180)
+			(uuid "6ca469e9-791f-4e99-ab9b-748423695f63")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334"
