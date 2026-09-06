@@ -3796,7 +3796,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00579109-d952-43ae-bad7-464c5a4b550c")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR059"
 			(at 266.7 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -3856,7 +3856,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR075")
+					(reference "#PWR059")
 					(unit 1)
 				)
 			)
@@ -3874,7 +3874,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00612eaf-e10f-428d-b646-804b45071981")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR045"
 			(at 177.8 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -3934,7 +3934,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR061")
+					(reference "#PWR045")
 					(unit 1)
 				)
 			)
@@ -3952,7 +3952,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "00f17fbc-ce67-482a-85cb-bcb623da9d7c")
-		(property "Reference" "U7"
+		(property "Reference" "U5"
 			(at 241.3 130.81 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4024,7 +4024,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "U7")
+					(reference "U5")
 					(unit 1)
 				)
 			)
@@ -4042,7 +4042,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "021708a1-11bd-491c-b813-b1399d930214")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR055"
 			(at 241.3 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4102,7 +4102,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR071")
+					(reference "#PWR055")
 					(unit 1)
 				)
 			)
@@ -4120,7 +4120,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "028e3e8c-c29a-40dc-a7fd-ffa7698d54b9")
-		(property "Reference" "#PWR058"
+		(property "Reference" "#PWR043"
 			(at 127 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -4180,7 +4180,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR058")
+					(reference "#PWR043")
 					(unit 1)
 				)
 			)
@@ -4198,7 +4198,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "05e2b9a5-d4be-487c-80e2-b5c9edc08392")
-		(property "Reference" "C22"
+		(property "Reference" "C21"
 			(at 257.81 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4339,7 +4339,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "C22")
+					(reference "C21")
 					(unit 1)
 				)
 			)
@@ -4357,7 +4357,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09c8c3b7-ef87-4181-bb34-3f26113f10c4")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR057"
 			(at 254 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -4417,7 +4417,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR073")
+					(reference "#PWR057")
 					(unit 1)
 				)
 			)
@@ -4435,7 +4435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0aec2a29-bbae-4f80-9fff-bbb5fb4a4c61")
-		(property "Reference" "JP7"
+		(property "Reference" "JP1"
 			(at 260.35 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4552,7 +4552,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "JP7")
+					(reference "JP1")
 					(unit 1)
 				)
 			)
@@ -4570,7 +4570,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0b55e439-b5c5-4fb2-8b28-c7201cf073e1")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR051"
 			(at 228.6 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -4630,7 +4630,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR067")
+					(reference "#PWR051")
 					(unit 1)
 				)
 			)
@@ -4648,7 +4648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1b4e0f52-fa79-44a2-8f06-9d23db2e0c32")
-		(property "Reference" "C20"
+		(property "Reference" "C19"
 			(at 232.41 93.9799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4789,7 +4789,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "C20")
+					(reference "C19")
 					(unit 1)
 				)
 			)
@@ -4807,7 +4807,7 @@
 		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "30f3f943-b2f5-4c63-a25d-867d67b553a0")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 177.8 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4951,7 +4951,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -4969,7 +4969,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "349e3631-57e8-4a30-bf77-4bd73048f457")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 171.45 138.4299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5091,7 +5091,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "U5")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -5109,7 +5109,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c4b61ff-7ee1-4065-80be-5e328c2d24ef")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR046"
 			(at 177.8 130.81 0)
 			(hide yes)
 			(show_name no)
@@ -5169,7 +5169,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR062")
+					(reference "#PWR046")
 					(unit 1)
 				)
 			)
@@ -5187,7 +5187,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "470b9e28-2834-4bb0-936e-708c2ab205f4")
-		(property "Reference" "#PWR051"
+		(property "Reference" "#PWR044"
 			(at 165.1 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5247,7 +5247,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR051")
+					(reference "#PWR044")
 					(unit 1)
 				)
 			)
@@ -5265,7 +5265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4907883a-79e8-4aac-99f6-63f3d73ea6bc")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR048"
 			(at 190.5 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5325,7 +5325,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR064")
+					(reference "#PWR048")
 					(unit 1)
 				)
 			)
@@ -5343,7 +5343,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4c6fc034-2d52-49b7-9b4c-408b4502e82e")
-		(property "Reference" "C23"
+		(property "Reference" "C22"
 			(at 257.81 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5484,7 +5484,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "C23")
+					(reference "C22")
 					(unit 1)
 				)
 			)
@@ -5502,7 +5502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "54d00349-16d2-45f1-9459-7eb5bf36e9c0")
-		(property "Reference" "#PWR050"
+		(property "Reference" "#PWR041"
 			(at 76.2 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -5562,7 +5562,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR050")
+					(reference "#PWR041")
 					(unit 1)
 				)
 			)
@@ -5580,7 +5580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "589129f3-01e4-41f8-a6eb-0502213d9733")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR050"
 			(at 228.6 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -5640,7 +5640,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR066")
+					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -5938,7 +5938,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c8e0029-ee88-4cc5-9eb3-18ece0347450")
-		(property "Reference" "U6"
+		(property "Reference" "U4"
 			(at 241.3 82.55 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6058,7 +6058,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "U6")
+					(reference "U4")
 					(unit 1)
 				)
 			)
@@ -6076,7 +6076,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65110ed7-eab4-4d9a-b59c-b8ae2c284925")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR053"
 			(at 228.6 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -6136,7 +6136,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR069")
+					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -6242,7 +6242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75f3d863-07f0-47bf-af66-90ca82a50766")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR056"
 			(at 254 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -6302,7 +6302,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR072")
+					(reference "#PWR056")
 					(unit 1)
 				)
 			)
@@ -6479,7 +6479,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8cf59a41-17bf-423d-b6e7-64653629cf4c")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR054"
 			(at 241.3 107.95 0)
 			(hide yes)
 			(show_name no)
@@ -6539,7 +6539,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR070")
+					(reference "#PWR054")
 					(unit 1)
 				)
 			)
@@ -6557,7 +6557,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0e22696-d880-498b-87d0-7ca23bc74530")
-		(property "Reference" "C21"
+		(property "Reference" "C20"
 			(at 232.41 144.7799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6698,7 +6698,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "C21")
+					(reference "C20")
 					(unit 1)
 				)
 			)
@@ -6716,7 +6716,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a2d8395d-b52b-4a0e-9248-4ff9b2bed18d")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR052"
 			(at 228.6 135.89 0)
 			(hide yes)
 			(show_name no)
@@ -6776,7 +6776,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR068")
+					(reference "#PWR052")
 					(unit 1)
 				)
 			)
@@ -6794,7 +6794,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a4ea7381-3640-4480-bc3c-6cde357f13d7")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR049"
 			(at 196.85 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -6854,7 +6854,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR065")
+					(reference "#PWR049")
 					(unit 1)
 				)
 			)
@@ -6872,7 +6872,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b7baf373-78c1-4a25-98d5-21e63493d298")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR058"
 			(at 254 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -6932,7 +6932,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR074")
+					(reference "#PWR058")
 					(unit 1)
 				)
 			)
@@ -6950,7 +6950,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bbe4979b-79b1-4d19-a968-0acf48e1f411")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR047"
 			(at 177.8 158.75 0)
 			(hide yes)
 			(show_name no)
@@ -7010,7 +7010,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR063")
+					(reference "#PWR047")
 					(unit 1)
 				)
 			)
@@ -7028,7 +7028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c33b037e-77e8-473c-9758-5354f7705c3d")
-		(property "Reference" "R23"
+		(property "Reference" "R16"
 			(at 129.54 125.7299 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7169,7 +7169,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "R23")
+					(reference "R16")
 					(unit 1)
 				)
 			)
@@ -7265,7 +7265,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3664ce3-3dda-4688-9846-d05f7dbf1827")
-		(property "Reference" "LD5"
+		(property "Reference" "LD4"
 			(at 130.81 140.0174 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7417,7 +7417,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "LD5")
+					(reference "LD4")
 					(unit 1)
 				)
 			)
@@ -7435,7 +7435,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3e3e7b5-aaef-43a5-921a-4cf373a71f8c")
-		(property "Reference" "#PWR057"
+		(property "Reference" "#PWR042"
 			(at 127 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -7495,7 +7495,7 @@
 		(instances
 			(project "PicoBPSK"
 				(path "/2bd032f8-7511-456b-b52b-94ead8598334/01983222-32ea-4d46-9b12-7a6c05acd987"
-					(reference "#PWR057")
+					(reference "#PWR042")
 					(unit 1)
 				)
 			)
