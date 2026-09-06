@@ -1584,7 +1584,7 @@
 			(embedded_fonts no)
 		)
 	)
-	(text "Vth:2.5V ±129mV"
+	(text "V_{TH}:2.5V ±129mV"
 		(exclude_from_sim no)
 		(at 158.75 101.6 0)
 		(effects
@@ -1595,7 +1595,7 @@
 		)
 		(uuid "03a58638-fe39-4a19-a98c-ac67a2d61292")
 	)
-	(text "Vth:2.5V ±0mV"
+	(text "V_{TH}:2.5V ±0mV"
 		(exclude_from_sim no)
 		(at 158.75 139.7 0)
 		(effects
@@ -1606,7 +1606,7 @@
 		)
 		(uuid "3e10a715-9dec-45db-ac54-c75d202751ac")
 	)
-	(text "x0.60\n2.5V ±2.5V -> 1.5V ±1.5V\nAttenuator"
+	(text "A_{V}:0.60\n2.5V ±2.5V -> 1.5V ±1.5V\nAttenuator"
 		(exclude_from_sim no)
 		(at 195.58 50.8 0)
 		(effects
@@ -1616,7 +1616,7 @@
 		)
 		(uuid "4656260f-f0ed-4136-a20a-8cfecb704029")
 	)
-	(text "Vth:2.5V ±781mV"
+	(text "V_{TH}:2.5V ±781mV"
 		(exclude_from_sim no)
 		(at 88.9 101.6 0)
 		(effects
@@ -1627,7 +1627,7 @@
 		)
 		(uuid "46ff7939-80d9-4c22-91f7-852d0c04101d")
 	)
-	(text "Vth:2.5V ±376mV"
+	(text "V_{TH}:2.5V ±376mV"
 		(exclude_from_sim no)
 		(at 88.9 139.7 0)
 		(effects
@@ -1649,7 +1649,7 @@
 		)
 		(uuid "5505ea35-a5b4-4d90-8911-9516ba8c98ad")
 	)
-	(text "x1.00\n2.5V ±2.5V -> 2.5V ±2.5V\nVoltage Follower"
+	(text "A_{V}:1.00\n2.5V ±2.5V -> 2.5V ±2.5V\nVoltage Follower"
 		(exclude_from_sim no)
 		(at 133.35 50.8 0)
 		(effects
@@ -1702,7 +1702,7 @@
 		)
 		(uuid "aaed1afe-d911-4b4b-bce3-b1f4e6129cd6")
 	)
-	(text "x1.00\n1.5V ±1.5V -> 1.5V ±1.5V\nVoltage Follower"
+	(text "A_{V}:1.00\n1.5V ±1.5V -> 1.5V ±1.5V\nVoltage Follower"
 		(exclude_from_sim no)
 		(at 234.95 50.8 0)
 		(effects

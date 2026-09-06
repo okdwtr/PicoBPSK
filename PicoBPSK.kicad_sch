@@ -3337,6 +3337,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 39.37) (xy 149.86 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07ce3d9d-7c09-4842-89ce-f3058a5c65cb")
+	)
+	(wire
+		(pts
 			(xy 76.2 25.4) (xy 82.55 25.4)
 		)
 		(stroke
@@ -3487,7 +3497,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 38.1) (xy 149.86 43.18)
+			(xy 152.4 38.1) (xy 152.4 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3634,6 +3644,16 @@
 			(type default)
 		)
 		(uuid "2ecd27f6-e347-4941-a077-0ff67ad83528")
+	)
+	(wire
+		(pts
+			(xy 266.7 93.98) (xy 276.86 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2f8c61b3-2833-477f-9855-8af2f01bdb08")
 	)
 	(wire
 		(pts
@@ -3844,6 +3864,16 @@
 			(type default)
 		)
 		(uuid "5bc06324-52f6-49dd-a1eb-093bbb0f09c3")
+	)
+	(wire
+		(pts
+			(xy 266.7 96.52) (xy 276.86 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d0572e2-ec8b-4717-8ea3-2aa7095fb3fb")
 	)
 	(wire
 		(pts
@@ -4435,6 +4465,26 @@
 		)
 		(uuid "bb892920-8004-4b79-bbe9-b4423542702c")
 	)
+	(bus
+		(pts
+			(xy 218.44 78.74) (xy 228.6 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be095a88-c0d8-44b9-9f93-7b273660ac2c")
+	)
+	(wire
+		(pts
+			(xy 149.86 39.37) (xy 149.86 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bf72e4ce-c324-4a6d-8277-487a7d17b33b")
+	)
 	(wire
 		(pts
 			(xy 76.2 78.74) (xy 86.36 78.74)
@@ -4454,6 +4504,26 @@
 			(type default)
 		)
 		(uuid "c2836311-789a-4dca-8b39-1fd6b093001d")
+	)
+	(wire
+		(pts
+			(xy 218.44 85.09) (xy 228.6 85.09)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3fb4ca0-61e6-4cea-bd39-e309991f1191")
+	)
+	(wire
+		(pts
+			(xy 218.44 82.55) (xy 228.6 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c53c3715-40cf-406d-b702-cd025cfb87ea")
 	)
 	(wire
 		(pts
@@ -4807,6 +4877,16 @@
 	)
 	(wire
 		(pts
+			(xy 266.7 91.44) (xy 276.86 91.44)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9debaf7-527d-48d3-adba-25a4e8d8c00a")
+	)
+	(wire
+		(pts
 			(xy 187.96 66.04) (xy 177.8 66.04)
 		)
 		(stroke
@@ -4824,6 +4904,16 @@
 			(type default)
 		)
 		(uuid "fc39f61f-53c6-41d3-8053-dc4966277c08")
+	)
+	(bus
+		(pts
+			(xy 218.44 93.98) (xy 228.6 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff763f5c-bd3f-4d7e-a708-d3991ae61c7d")
 	)
 	(label "~{RUN}"
 		(at 71.12 165.1 180)
@@ -12721,7 +12811,7 @@
 	)
 	(symbol
 		(lib_id "power:+3V3")
-		(at 149.86 38.1 0)
+		(at 152.4 38.1 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12732,7 +12822,7 @@
 		(fields_autoplaced yes)
 		(uuid "f80a860a-42a0-40bc-97a3-a7a2f25f1ab4")
 		(property "Reference" "#PWR024"
-			(at 149.86 41.91 0)
+			(at 152.4 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12743,7 +12833,7 @@
 			)
 		)
 		(property "Value" "+3V3"
-			(at 149.86 33.02 0)
+			(at 152.4 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12753,7 +12843,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 149.86 38.1 0)
+			(at 152.4 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12764,7 +12854,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 149.86 38.1 0)
+			(at 152.4 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12775,7 +12865,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+3V3\""
-			(at 149.86 38.1 0)
+			(at 152.4 38.1 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13086,8 +13176,8 @@
 				(justify right)
 			)
 		)
-		(pin "TX_FET_D" input
-			(at 228.6 81.28 180)
+		(pin "TX_FET_N" input
+			(at 228.6 85.09 180)
 			(uuid "aeec2749-73ff-4a33-93d8-5fe8e4589c31")
 			(effects
 				(font
@@ -13096,29 +13186,9 @@
 				(justify left)
 			)
 		)
-		(pin "TX_FET_U" input
-			(at 228.6 78.74 180)
+		(pin "TX_FET_P" input
+			(at 228.6 82.55 180)
 			(uuid "ef4a3771-fc33-450f-84ea-af77bd83d552")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "TX_LEV_H" input
-			(at 228.6 83.82 180)
-			(uuid "1bf7b7ff-629f-4e9e-af92-287d215c37a2")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "TX_LEV_L" input
-			(at 228.6 86.36 180)
-			(uuid "a72e75aa-0ede-435c-9e41-adff893ca0ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13139,6 +13209,16 @@
 		(pin "RX_LEV_[0..3]" input
 			(at 228.6 93.98 180)
 			(uuid "a3b85c06-b25c-4eb7-8dd4-7fcda31c1629")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "TX_LEV_[0..1]" input
+			(at 228.6 78.74 180)
+			(uuid "f442ec7f-9311-42c7-b08d-a62e367ebe02")
 			(effects
 				(font
 					(size 1.27 1.27)
