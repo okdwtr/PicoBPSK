@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "PicoBPSK")
-		(date "2026-09-03")
-		(rev "0.01")
+		(date "2026-09-07")
+		(rev "0.02")
 		(company "okdwtr")
 		(comment 1 "USB-BPSK Converter Using RP2354")
 	)
@@ -3962,7 +3962,7 @@
 				)
 			)
 		)
-		(property "Value" "TLV70012_SOT23-5"
+		(property "Value" "TLV74311PDBVR"
 			(at 241.3 133.35 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3996,6 +3996,28 @@
 			)
 		)
 		(property "Description" "200mA Low Dropout Voltage Regulator, Fixed Output 1.2V, SOT-23-5"
+			(at 241.3 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C485147"
+			(at 241.3 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "akizuki" "x"
 			(at 241.3 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -6202,6 +6224,28 @@
 			)
 		)
 		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 194.31 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C20917"
+			(at 194.31 139.7 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "akizuki" "x"
 			(at 194.31 139.7 0)
 			(hide yes)
 			(show_name no)

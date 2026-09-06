@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "PicoBPSK")
-		(date "2026-09-03")
-		(rev "0.01")
+		(date "2026-09-07")
+		(rev "0.02")
 		(company "okdwtr")
 		(comment 1 "USB-BPSK Converter Using RP2354")
 	)
@@ -8473,7 +8473,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23630"
 			(at 107.95 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -8484,7 +8484,7 @@
 				)
 			)
 		)
-		(property "akizuki" ""
+		(property "akizuki" "x"
 			(at 107.95 31.75 0)
 			(hide yes)
 			(show_name no)
@@ -12045,6 +12045,28 @@
 				)
 			)
 		)
+		(property "LCSC" "C20917"
+			(at 264.16 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "akizuki" "x"
+			(at 264.16 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "a1b79fdc-a5af-4286-87e0-2f4389d3fb85")
 		)
@@ -12206,7 +12228,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23345"
 			(at 82.55 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -12217,7 +12239,7 @@
 				)
 			)
 		)
-		(property "akizuki" ""
+		(property "akizuki" "x"
 			(at 82.55 99.06 90)
 			(hide yes)
 			(show_name no)
@@ -12500,7 +12522,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23345"
 			(at 82.55 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -12511,7 +12533,7 @@
 				)
 			)
 		)
-		(property "akizuki" ""
+		(property "akizuki" "x"
 			(at 82.55 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -13318,6 +13340,28 @@
 			)
 		)
 		(property "Description" "30V Vds, 5.7A Id, N-Channel MOSFET, SOT-23"
+			(at 213.36 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C20917"
+			(at 213.36 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "akizuki" "x"
 			(at 213.36 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -15907,6 +15951,28 @@
 				)
 			)
 		)
+		(property "LCSC" "C20917"
+			(at 238.76 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "akizuki" "x"
+			(at 238.76 133.35 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "930de5e2-bcae-4815-8694-5f2d5b130fd1")
 		)
@@ -15990,7 +16056,7 @@
 				)
 			)
 		)
-		(property "LCSC" ""
+		(property "LCSC" "C23345"
 			(at 101.6 25.4 0)
 			(hide yes)
 			(show_name no)
@@ -16001,7 +16067,7 @@
 				)
 			)
 		)
-		(property "akizuki" ""
+		(property "akizuki" "x"
 			(at 101.6 25.4 90)
 			(hide yes)
 			(show_name no)
