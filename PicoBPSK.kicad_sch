@@ -13086,24 +13086,24 @@
 				(justify left)
 			)
 		)
-		(pin "RX_SIG_H" output
-			(at 228.6 96.52 180)
+		(pin "RX_CMP_H" output
+			(at 266.7 93.98 0)
 			(uuid "b9ad171e-7b6d-4202-a0ed-414cdc798a3a")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
-		(pin "RX_SIG_L" output
-			(at 228.6 99.06 180)
+		(pin "RX_CMP_L" output
+			(at 266.7 96.52 0)
 			(uuid "d4de74bd-8c62-4b4e-b57a-6c57e476ac2d")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(pin "TX_FET_D" input
@@ -13146,14 +13146,14 @@
 				(justify left)
 			)
 		)
-		(pin "RX_SIG" output
-			(at 228.6 93.98 180)
+		(pin "RX_ADC_SIG" output
+			(at 266.7 91.44 0)
 			(uuid "6ca469e9-791f-4e99-ab9b-748423695f63")
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 		(instances
