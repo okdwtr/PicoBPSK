@@ -3453,7 +3453,7 @@
 		)
 		(uuid "0afea1e5-1823-4f57-9de5-3f8b59cd2c2d")
 	)
-	(text "Blue"
+	(text "Yellow"
 		(exclude_from_sim no)
 		(at 270.51 124.968 0)
 		(effects
@@ -3485,7 +3485,7 @@
 		)
 		(uuid "79973a65-29b8-45eb-80a8-555f24e7c75b")
 	)
-	(text "Blue"
+	(text "Yellow"
 		(exclude_from_sim no)
 		(at 245.11 124.968 0)
 		(effects
@@ -11341,7 +11341,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C12624"
+		(property "LCSC" "C2289"
 			(at 266.7 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -16094,7 +16094,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C12624"
+		(property "LCSC" "C2289"
 			(at 241.3 120.65 90)
 			(hide yes)
 			(show_name no)
@@ -16555,7 +16555,7 @@
 				)
 			)
 		)
-		(property "LCSC" "C12624"
+		(property "LCSC" "C2286"
 			(at 215.9 120.65 90)
 			(hide yes)
 			(show_name no)
