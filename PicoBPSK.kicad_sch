@@ -13066,26 +13066,6 @@
 				(justify left top)
 			)
 		)
-		(pin "RX_LEV_H" input
-			(at 228.6 88.9 180)
-			(uuid "e83a78db-f293-4b02-920e-6c2073ff98f7")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "RX_LEV_L" input
-			(at 228.6 91.44 180)
-			(uuid "e534caab-3936-44ee-ab30-05580c64bccd")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
 		(pin "RX_CMP_H" output
 			(at 266.7 93.98 0)
 			(uuid "b9ad171e-7b6d-4202-a0ed-414cdc798a3a")
@@ -13154,6 +13134,16 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+		(pin "RX_LEV_[0..3]" input
+			(at 228.6 93.98 180)
+			(uuid "a3b85c06-b25c-4eb7-8dd4-7fcda31c1629")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 		(instances
